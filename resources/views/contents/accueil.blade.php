@@ -13,8 +13,9 @@
             <p>Je suis <span class="typed" data-typed-items="Développeur Full Stack, Graphiste">Informaticien-Développeur</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
             <div class="social-links">
               <a href="https://www.facebook.com/share/1YZ1jNSEos/"><i class="bi bi-facebook"></i></a>
-              <a href="https://www.instagram.com/ya_khalifa15?igsh=MWpiYjMydmpmYTdnZw=="><i class="bi bi-instagram"></i></a>
               <a href="https://www.linkedin.com/in/khalifa-ababacar-diadhiou-986ab3362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="bi bi-linkedin"></i></a>
+              <a href="https://www.instagram.com/ya_khalifa15?igsh=MWpiYjMydmpmYTdnZw=="><i class="bi bi-instagram"></i></a>
+
             </div>
           </div>
         </div>
@@ -30,7 +31,7 @@
         <h2>A propos</h2>
         <p>Je suis Khalifa Ababacar Diadhiou, développeur Full Stack et entrepreneur basé au Sénégal. <br>
             Spécialisé en Java/Spring Boot, Angular, Laravel, ASP.NET MVC, ainsi qu’en Cloud & DevOps <br>(AWS, Docker, Kubernetes, Terraform, CI/CD), <br> je conçois des applications web robustes, performantes et évolutives. <br>
-            À travers ma société ODS (Omega Digital Service), <br> j’accompagne les PME et startups africaines dans leur transformation digitale : <br> développement web, applications sur mesure, e-commerce, systèmes financiers,  <br>mais aussi design graphique (logos, affiches) et montage vidéo. <br>
+            À travers mon entreprise individuelle ODS (Omega Digital Service), <br> j’accompagne les PME et startups africaines dans leur transformation digitale : <br> développement web, applications sur mesure, e-commerce, systèmes financiers,  <br>mais aussi design graphique (logos, affiches) et montage vidéo. <br>
             Mes valeurs : <strong>Innovation – Fiabilité – Performance – Simplicité.</strong>
         </p>
       </div><!-- End Section Title -->
@@ -52,14 +53,14 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Date de Naissance:</strong> <span>14 Décembre 1996</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Site web:</strong> <span>www.ods.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Téléphone:</strong> <span>+221765307712</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Adresse:</strong> <span>SENEGAl, Dakar</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Téléphone:</strong> <span>+221781498476</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Adresse:</strong> <span>SENEGAL, Dakar/Guédiawaye-Gadaye</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>28 ans</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Niveau d'étude:</strong> <span>Master</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Niveau d'étude:</strong> <span>Master II</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>diadhiouababacarpro@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
                 </ul>
@@ -82,32 +83,32 @@
           <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
             <i class="bi bi-emoji-smile"></i>
             <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Happy Clients</p>
+              <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Clients Satisfaits</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
             <i class="bi bi-journal-richtext"></i>
             <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Projects</p>
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Projets</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
             <i class="bi bi-headset"></i>
             <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
+              <span data-purecounter-start="0" data-purecounter-end="96" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Heures d'assistance</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
             <i class="bi bi-people"></i>
             <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hard Workers</p>
+              <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Travailleurs acharnés</p>
             </div>
           </div><!-- End Stats Item -->
 
@@ -177,7 +178,7 @@
 
         <!-- ⚙️ Frameworks & Librairies -->
         <div class="col-lg-6">
-        <h4 class="mb-3">⚙️ Frameworks & Librairies</h4>
+        <h4 class="mb-3">⚙️ Frameworks, CMS & Librairies</h4>
 
         <div class="progress mb-2">
             <span class="skill"><i class="fab fa-laravel me-2"></i> Laravel <i class="val">75%</i></span>
@@ -194,6 +195,10 @@
         <div class="progress mb-2">
             <span class="skill"><i class="fab fa-bootstrap me-2"></i> Bootstrap <i class="val">90%</i></span>
             <div class="progress-bar-wrap"><div class="progress-bar" role="progressbar" aria-valuenow="90"></div></div>
+        </div>
+        <div class="progress mb-2">
+            <span class="skill"><i class="fab fa-wordpress me-2"></i> Wordpress <i class="val">70%</i></span>
+            <div class="progress-bar-wrap"><div class="progress-bar" role="progressbar" aria-valuenow="70"></div></div>
         </div>
         </div>
 
@@ -764,7 +769,7 @@
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h3>Adresse</h3>
-                <p>Dakar-Guédiawaye</p>
+                <p>Dakar/Guédiawaye - Gadaye</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -772,7 +777,7 @@
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
                 <h3>Téléphone</h3>
-                <p>+221 76 530 77 30</p>
+                <p>+221 78 149 84 76</p>
               </div>
             </div><!-- End Info Item -->
 

@@ -5,8 +5,8 @@
       <p>Informaticien-Développeur Full Stack et entrepreneur basé au Sénégal</p>
       <div class="social-links d-flex justify-content-center">
         <a href="https://www.facebook.com/share/1YZ1jNSEos/"><i class="bi bi-facebook"></i></a>
-        <a href="https://www.linkedin.com/in/khalifa-ababacar-diadhiou-986ab3362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="bi bi-instagram"></i></a>
-        <a href="https://www.instagram.com/ya_khalifa15?igsh=MWpiYjMydmpmYTdnZw=="><i class="bi bi-linkedin"></i></a>
+        <a href="https://www.instagram.com/ya_khalifa15?igsh=MWpiYjMydmpmYTdnZw=="><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/khalifa-ababacar-diadhiou-986ab3362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="bi bi-linkedin"></i></a>
       </div>
       <div class="container">
         <div class="copyright">
